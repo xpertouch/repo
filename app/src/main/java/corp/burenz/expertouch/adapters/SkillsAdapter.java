@@ -35,6 +35,7 @@ public class SkillsAdapter extends RecyclerView.Adapter<SkillsAdapter.SkillViewH
     }
 
 
+
     @Override
     public void onBindViewHolder(SkillViewHolder holder, int position) {
 
@@ -46,6 +47,7 @@ public class SkillsAdapter extends RecyclerView.Adapter<SkillsAdapter.SkillViewH
 
 
     }
+
 
     @Override
     public int getItemCount() {
