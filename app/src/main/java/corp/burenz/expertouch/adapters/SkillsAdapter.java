@@ -42,6 +42,9 @@ public class SkillsAdapter extends RecyclerView.Adapter<SkillsAdapter.SkillViewH
         skillTextView = holder.skillTextView;
         skillTextView.setText(skillList[position]);
 
+
+
+
     }
 
     @Override
